@@ -1,0 +1,7 @@
+{
+  "name": "responsi2pemob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
